@@ -1,0 +1,48 @@
+Product;Clothing;Sports;Electronics;Entertainment;Gaming;Work;Office;Fitness;Hygiene;Wellbeing;Outdoors;Travel
+Suitcase;0;0;0;0;0;0;0;0;0;0;0;1
+T-shirt;1;0;0;0;0;0;0;0;0;0;0;0
+Running Shoes;1;1;0;0;0;0;0;1;0;0;1;0
+Laptop;0;0;1;0;0;1;1;0;0;0;0;1
+Yoga Mat;0;0;0;0;0;0;0;1;0;1;0;0
+Jeans;1;0;0;0;0;0;0;0;0;0;0;0
+Basketball;0;1;0;0;0;0;0;0;0;0;0;0
+Smartphone;0;0;1;0;0;0;0;0;0;0;0;1
+Book;0;0;0;1;0;0;0;0;0;0;0;0
+Video Game Console;0;0;1;1;1;0;0;0;0;0;0;0
+Desk;0;0;0;0;0;1;1;0;0;0;0;0
+Chair;0;0;0;0;0;1;1;0;0;0;0;0
+Dumbbells;0;0;0;0;0;0;0;1;0;0;0;0
+Shampoo;0;0;0;0;0;0;0;0;1;0;0;0
+Vitamin Supplements;0;0;0;0;0;0;0;0;0;1;0;0
+Hiking Boots;1;1;0;0;0;0;0;1;0;1;1;0
+Backpack;0;1;0;0;0;0;0;0;0;0;1;1
+Sunglasses;0;0;0;0;0;0;0;0;0;0;1;0
+Camera;0;0;1;0;0;0;0;0;0;0;0;1
+Headphones;0;0;1;0;0;0;0;0;0;0;0;1
+Watch;0;0;1;0;0;0;0;0;0;0;0;0
+Fitness Tracker;1;1;1;0;0;0;0;1;0;1;0;0
+Smartwatch;1;0;1;0;0;0;0;1;0;1;0;0
+Bluetooth Speaker;0;0;1;1;0;0;0;0;0;0;0;1
+Portable Charger;0;0;1;0;0;0;0;0;0;0;0;1
+Travel Adapter;0;0;1;0;0;0;0;0;0;0;0;1
+Luggage Tag;0;0;0;0;0;0;0;0;0;0;0;1
+Travel Pillow;0;0;0;0;0;0;0;0;0;0;0;1
+Travel Guide;0;0;0;1;0;0;0;0;0;0;0;1
+Travel Insurance;0;0;0;0;0;0;0;0;0;0;0;1
+Travel Mug;0;0;0;0;0;0;0;0;0;0;0;1
+Travel Document Organizer;0;0;0;0;0;0;0;0;0;0;0;1
+First Aid Kit;0;0;0;0;0;0;0;0;0;1;0;1
+Sunscreen;0;0;0;0;0;0;0;0;0;1;1;0
+Insect Repellent;0;0;0;0;0;0;0;0;0;1;1;0
+Camping Tent;0;0;0;0;0;0;0;0;0;0;1;1
+Sleeping Bag;0;0;0;0;0;0;0;0;0;0;1;1
+Backpack;0;1;0;0;0;0;0;0;0;0;1;1
+Map;0;0;0;0;0;0;0;0;0;0;1;1
+Compass;0;0;0;0;0;0;0;0;0;0;1;1
+Flashlight;0;0;0;0;0;0;0;0;0;0;1;1
+Water Bottle;0;0;0;0;0;0;0;0;0;0;1;1
+Cooler;0;0;0;0;0;0;0;0;0;0;1;1
+Grill;0;0;0;0;0;0;0;0;0;0;1;1
+Lawn Mower;0;0;0;0;0;0;0;0;0;0;1;0
+Garden Hose;0;0;0;0;0;0;0;0;0;0;1;0
+Gardening Tools;0;0;0;0;0;0;0;0;0;0;1;0
