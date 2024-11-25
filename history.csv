@@ -1,4 +1,3 @@
-Product;Clothing;Sports;Electronics;Entertainment;Gaming;Work;Office;Fitness;Hygiene;Wellbeing;Outdoors;Travel
-Controller;0;0;1;1;1;0;0;0;0;0;0;0
-Sneakers;1;1;0;0;0;0;0;1;0;1;1;0
-Mario;0;0;0;1;1;0;0;0;0;0;0;0
+Product;Clothing;Sports;Electronics;Entertainment;Gaming;Work;Office;Fitness;Hygiene;Wellbeing;Outdoors;Travel;Cooking;Decoration
+Mouse;0;0;2;1;2;1;1;0;0;0;0;0;0;0
+Thin longsleeve;3;1;0;0;0;0;0;0;0;0;0;0;0;0
